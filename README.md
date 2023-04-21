@@ -2,4 +2,4 @@
 Disciplina: Programação Front-End.<br>
 Proposta: Realizar uma plataforma de inserção de notas do semestre de um grupo de alunos:.<br>
 
-Realizado no: 2º Semestre
+Realizado no: 2º Semestre - 2022/2023
