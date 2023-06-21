@@ -4,5 +4,5 @@ Proposta: Realizar uma plataforma de inserção de notas do semestre de um grupo
 
 Projeto individual.
 
-Realizado durante o meu período de estudos no Senai Suíço-Brasileira.
+Realizado durante o meu período de estudos no Senai Suíço-Brasileira.<br>
 Realizado no: 2º Semestre - 2022/2023
